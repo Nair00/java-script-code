@@ -21,7 +21,7 @@ function setup() {
 	stats.class("stats");
 
 	//createCanvas(windowWidth, windowHeight);
-	target = "To be or not to be.";
+	target = "To be or not to be that is the question.";
 	mutationRate = 0.001;
 	popmax = 1000;
 
